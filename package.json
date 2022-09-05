@@ -1,0 +1,22 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "Pomodoro task application built with JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx browser-sync start -sw"
+  },
+  "keywords": [
+    "pomodoro",
+    "javascript"
+  ],
+  "author": "Luis Hernandez",
+  "license": "Test",
+  "bugs": {
+    "url": "https://www.accenture.com/mx-es"
+  },
+  "homepage": "https://www.accenture.com/mx-es",
+  "dependencies": {
+    "browser-sync": "^2.26.12"
+  }
+}
